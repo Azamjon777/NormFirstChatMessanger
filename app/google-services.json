@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "632875863488",
+    "project_id": "chatkotlin-68631",
+    "storage_bucket": "chatkotlin-68631.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632875863488:android:de5fb828e6ef5fcb90cc25",
+        "android_client_info": {
+          "package_name": "com.azamjon.chatkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632875863488-cj98a75bghpjlihkeliq9fjgc9543gv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMG5CVjCqwIWDy8clpsc3FSHpJPr9qoBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632875863488-cj98a75bghpjlihkeliq9fjgc9543gv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
